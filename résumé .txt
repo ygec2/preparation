@@ -1,0 +1,40 @@
+résumé 
+commentaire
+traduction 
+
+article/paragraphe  : sur les phenomenes economiques , sociales,politiques, administratifs et culturels au niveau national et internationnal . 
+----------------------------------------------------------
+QCM 
+I - Design pattern : 
+	1 - prototype 
+        2 - iterator
+        3 - facade
+        4 - observer
+        5 - factory 
+        6 - builder 
+        7 - composite
+ - UML Merise (axial, mda, ocl) | difference entre uml et merise
+ - web service
+ - maintenance corrective/adaptative/evolutive/préventive
+ - MOA MOE
+ - processus ITIL
+ - B2B
+ - les plans PRA et PCA dans le domaine de sécurité s'un SI
+ - le modèle de qualité CMMI
+ - design pattern GRASP 
+ - base de données coherentes
+ - gestion de projet (viabilité)
+ - SSo
+ - ERP
+ - les attaques de securite 
+ - la virtualisation
+ - stratégie de veille stratégique (Business Intelligence
+ - Applets
+ - Composants java d'entreprise (EJBs)
+ - Scripts utilisant des composants (CGI)
+ - Diagramme de timing
+ - Diagramme de paquetage
+ - Diagramme de profil
+ - Diagramme de structure composite
+----------------------------------------------------------
+discussion sur des sujets en relation avec la profession . 
